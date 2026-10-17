@@ -11,9 +11,9 @@ This project was developed as a Sulcata tortoise monitoring device for beginners
   -  16x2 LCD Display (I2C) 
   -  DC Cooling Fan \ 12 volts 
   -  Relay 5DC 2 Channels
-  -  Battery
-    -  21700, 5000 mAh, 3.7V, 3 pieces
-    -  5v, 1 pieces
+-  Battery
+   -  21700, 5000 mAh, 3.7V, 3 pieces
+   -  5v, 1 pieces
   
 
 **Software & Open-Source Libraries**:
