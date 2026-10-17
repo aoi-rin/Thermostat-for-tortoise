@@ -26,4 +26,5 @@ This project was developed as a Sulcata tortoise monitoring device for beginners
 
 ## Flow Chart of the system
 
+![Flow Chart](./Thermostat_Flowchart_Simple.png)
 
