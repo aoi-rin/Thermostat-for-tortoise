@@ -23,3 +23,7 @@ This project was developed as a Sulcata tortoise monitoring device for beginners
 - Adafruit DHT Sensor Library (MIT License)
 
 - LiquidCrystal_I2C Library (LGPL / MIT License)
+
+## Flow Chart of the system
+
+
